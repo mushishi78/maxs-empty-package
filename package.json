@@ -1,0 +1,20 @@
+{
+  "name": "maxs-empty-package",
+  "version": "1.0.0",
+  "description": "Empty package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushishi78/maxs-empty-package.git"
+  },
+  "keywords": [
+    "empty",
+    "package"
+  ],
+  "author": "Max White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mushishi78/maxs-empty-package/issues"
+  },
+  "homepage": "https://github.com/mushishi78/maxs-empty-package#readme"
+}
